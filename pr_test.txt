@@ -1,0 +1,2 @@
+Hello world – this is a clean UTF-8 file.
+Second line test.
